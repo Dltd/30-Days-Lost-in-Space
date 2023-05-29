@@ -11,6 +11,8 @@ Some months ago I got an idea which I wanted to create and share with the commun
 
 ![30 Days Lost in Space Control Panel](../media/30days_control_panel_FinalFront.JPG)
 
+![30 Days Lost in Space Control Panel Silk Filament](../media/30days_control_panel_GreenSilkFilament3_640.JPEG)
+
 ![Control panel back](../media/30days_control_panel_FinalBack.JPG)
 
 
