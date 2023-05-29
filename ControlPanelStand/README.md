@@ -48,6 +48,14 @@ The 3D files can be found here:
 
 ![Alt text](../media/30days_control_panel_Front_print69.JPEG)
 
+![Alt text](../media/30days_control_panel_GreenSilkFilament1.JPEG)
+
+![Alt text](../media/30days_control_panel_GreenSilkFilament2.JPEG)
+
+![Alt text](../media/30days_control_panel_GreenSilkFilament3.JPEG)
+
+![Alt text](../media/30days_control_panel_GreenSilkFilament4.JPEG)
+
 ![Alt text](../media/30days_control_panel_FinalFront.JPG)
 ![Alt text](../media/30days_control_panel_FinalBack.JPG)
 ![Alt text](../media/30days_control_panel_final_stand.JPEG)
