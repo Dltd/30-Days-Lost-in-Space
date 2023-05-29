@@ -14,7 +14,7 @@
 #define RGB_RED_PIN 8
 #define RGB_GREEN_PIN 9
 #define RGB_BLUE_PIN 10
-#define PHOTORESISTOR_PIN A0
+#define PHOTORESISTOR_PIN A0 // one leg into GND, the other one via a resistor to VCC
 
 // Constants
 #define RESISTOR_VALUE 220000
@@ -25,7 +25,7 @@
 // Global objects
 RotaryEncoder encoder(ENCODER_PIN_A, ENCODER_PIN_B);
 TM1637Display display(CLK, DIO);
-U8GLIB_SH1106_128X64 u8g(U8G_I2C_OPT_NONE); // I2C / TWI
+U8GLIB_SH1106_128X64 u8g(U8G_I2C_OPT_NONE); // I2C / TWI  SCL to A5 and SDA to A4
 
 // Global variables
 int prevEncoderPos = 0;
